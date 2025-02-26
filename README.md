@@ -7,9 +7,6 @@
 <h2>⚡️ Where to find me</h2>
 <p><a target="_blank" href="https://dev.to/artursoaresdev" style="display: inline-block;"><img src="https://img.shields.io/badge/dev-to?style=for-the-badge&logo=dev-to&logoColor=white&color=black" alt="dev.to" /></a>
 <a target="_blank" href="https://www.linkedin.com/in/artur-soares-233b4122b" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=codebyartur&show_icons=true&locale=en" alt="codebyartur" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=codebyartur&" alt="codebyartur" /></p>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=codebyartur&show_icons=true&locale=en&layout=compact" alt="codebyartur" /></p>
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=codebyartur&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
