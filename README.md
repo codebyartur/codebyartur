@@ -1,4 +1,4 @@
-<h1>Hi 👋, I'm an Information Systems student at the Federal University of Sergipe.</h1>
+<h1>Hi 👋, I study Information Systems at the Federal University of Sergipe.</h1>
 <p></p>
 <h2>💻 Tech Stack</h2>
 
